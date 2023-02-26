@@ -17,7 +17,7 @@ export default function Header(props) {
       <div className="header-container">
         <div className="logo">
           {" "}
-          <img className="logo-img" src="/nb-logo.png" alt="" />
+          <img className="logo-img" src="/mywebsite/nb-logo.png" alt="" />
         </div>
         <div className="menu">
           <a
