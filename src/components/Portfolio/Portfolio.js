@@ -63,7 +63,7 @@ export default function Portfolio() {
               A React based Video Library using the Youtube API
             </p>
             <a
-              href="https://niki21599.github.io/videoflix_frontend/"
+              href="https://niki21599.github.io/youtube_clone/"
               className="tryLink"
               target="_blank"
             >
