@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div className="white-background footerContainer">
+    <div className="white-background footerContainer padding-sites">
       <div className="noticeContainer ">
         <a href="" className="light-grey ">
           Impressum

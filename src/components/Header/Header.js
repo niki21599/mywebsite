@@ -50,7 +50,11 @@ export default function Header(props) {
         </div>
         <div className="menu-responsive white">
           <img
-            src={props.open ? "/close.png" : "/icons8-menü-60.png"}
+            src={
+              props.open
+                ? "/mywebsite/close.png"
+                : "/mywebsite/icons8-menü-60.png"
+            }
             alt=""
             className="responsive-img"
             onClick={() => {
